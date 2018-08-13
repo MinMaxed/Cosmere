@@ -42,7 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Magic\Interfaces\IInvestiture.cs" />
     <Compile Include="Magic\Investiture.cs" />
+    <Compile Include="Magic\Mistborn\Allomancy\Mistborn.cs" />
     <Compile Include="Magic\Mistborn\Allomancy\Misting.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

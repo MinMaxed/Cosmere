@@ -11,5 +11,7 @@ namespace Cosmere.Magic.Mistborn
         public string Name { get; set; }
         public string NickName { get; set; }
         public string Resource { get; set; }
+        public string Power { get; set; }
+        public string SymbolPath { get; set; }
     }
 }
